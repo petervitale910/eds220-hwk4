@@ -33,7 +33,7 @@ Landsat C2 L2 from Microsoft's Planetary Computer is a globally available, multi
 ## References: 
 
 ### Data:
-- Los Angeles GeoHub / NIFC FIRIS. (2025). Palisades-Eaton dissolved fire perimeters [data filel. Available: https://geohub/.lacity.org/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about. [Accessed: Nov. 15, 2025]
+- Los Angeles GeoHub / NIFC FIRIS. (2025). Palisades-Eaton dissolved fire perimeters [data filel. Available: https://geohub.lacity.org/datasets/lacounty::palisades-and-eaton-dissolved-fire-perimeters-2025. [Accessed: Nov. 15, 2025]
 
 - U.S. Geological Survey. Landsat Collection 2 Level-2 Surface Reflectance (Microsoft Planetary Computer version)  Idata file. Available: https://planetarycomputer.microsoft.com/dataset/landsat-c2-12. [Accessed: Nov. 15, 2025]
 
