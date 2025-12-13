@@ -1,6 +1,7 @@
 
 # Mapping Palisades and Eaton fires (January 2025)
 
+![Final plot output of project](image.png)
 
 ##  About 
 In this project we will be using true and false color imagery to examine the impacts of two fires which struck the Los Angeles area in early 2025. 
@@ -13,11 +14,18 @@ We will acomplish this by:
 ## Repository structure
 
 eds220-hwk4
-│--  README.md
-│--  hwk4-task2-false-color-vitale.ipynb
-│--  blog_post.ipynb
-│--  palisades_eaton_eji.ipynb 
-|--  .gitignore
+
+├── blog_post.ipynb
+
+├── eds220-hwk4.Rproj
+
+├── hwk4-task2-false-color-Vitale.ipynb
+
+├── image.png
+
+├── palisades_eaton_eji.ipynb
+
+└── README.md
 
 ## Data
 Datasets are publically available and can be found by following the reference section. 
